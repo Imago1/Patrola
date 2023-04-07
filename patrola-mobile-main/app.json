@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Patrola",
+    "slug": "patrola",
+    "scheme": "mycoolredirect",
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.azizovic.patrola",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.azizovic.patrola",
+      "android.config.googleMaps.apiKey": "AIzaSyATkWxEYxIBMON7Hu4o6yC6Zygy09j2-cc"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28b29038-5b53-4f33-a62e-b664472ca9b6"
+      }
+    },
+    "owner": "azizovic"
+  }
+}

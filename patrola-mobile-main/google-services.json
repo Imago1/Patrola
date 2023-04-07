@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093042738262",
+    "firebase_url": "https://react-native-app-772e5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "react-native-app-772e5",
+    "storage_bucket": "react-native-app-772e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093042738262:android:7730174d177ca6ebc317f7",
+        "android_client_info": {
+          "package_name": "com.patrola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093042738262-5e41k84l4fausho4c7sifpahti4ke4qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patrola",
+            "certificate_hash": "aed4b15dad594bf6f448653da5303fab691f5bc5"
+          }
+        },
+        {
+          "client_id": "1093042738262-dmos42unh8soeu8g1g9tum9m6lm9rnp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5mj_uY_fglpkb6aHu-DBS3j8EpXQD9ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093042738262-dmos42unh8soeu8g1g9tum9m6lm9rnp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
